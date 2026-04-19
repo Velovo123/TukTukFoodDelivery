@@ -15,8 +15,13 @@
 
 ## 📱 Demo
 
-<!-- Drag your screen recording into a GitHub Issue to get a URL, then paste it here -->
-<!-- https://github.com/user/repo/assets/your-video.mp4 -->
+<div align="center">
+
+[![App Demo](https://img.youtube.com/vi/xFj2Z1fwibc/maxresdefault.jpg)](https://www.youtube.com/shorts/OKgAeHHv92s)
+
+*Tap to watch the demo*
+
+</div>
 
 ---
 
