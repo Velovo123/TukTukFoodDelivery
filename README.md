@@ -105,7 +105,7 @@ TukTukApp/
 | Local Storage | UserDefaults, Keychain (stubs) |
 | Persistence | SwiftData (planned) |
 | Networking | URLSession / `async-await` (stubs) |
-| Minimum iOS | 17.0 |
+| Minimum iOS | 26.2 |
 
 ---
 
