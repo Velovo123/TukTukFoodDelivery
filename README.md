@@ -7,7 +7,7 @@
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-26.2+-black?logo=apple&logoColor=white)](https://apple.com/ios)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-5.0-green)](https://developer.apple.com/swiftui)
-[![Xcode](https://img.shields.io/badge/Xcode-16+-blue?logo=xcode&logoColor=white)](https://developer.apple.com/xcode)
+[![Xcode](https://img.shields.io/badge/Xcode-26.2+-blue?logo=xcode&logoColor=white)](https://developer.apple.com/xcode)
 
 </div>
 
