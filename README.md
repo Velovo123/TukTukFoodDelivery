@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![App Demo](https://img.youtube.com/vi/OKgAeHHv92s/maxresdefault.jpg)](https://www.youtube.com/shorts/OKgAeHHv92s)
+[![App Demo](demo.jpg)](https://www.youtube.com/shorts/OKgAeHHv92s)
 
 *Tap to watch the demo*
 
