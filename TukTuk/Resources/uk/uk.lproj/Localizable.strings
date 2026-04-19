@@ -1,0 +1,81 @@
+/*
+ Localizable.strings
+ TukTuk
+ 
+ Created by Anatolii Semenchuk on 18.04.2026.
+ 
+ */
+
+// MARK: - Tabs
+"tab.food"    = "Їжа";
+"tab.taxi"    = "Таксі";
+"tab.orders"  = "Замовлення";
+"tab.profile" = "Профіль";
+
+// MARK: - Food
+"food.title"    = "Їжа";
+"food.greeting" = "Доброго дня 👋";
+"food.question" = "Що замовимо?";
+"food.venues"   = "Заклади";
+"food.new"      = "Нове";
+"food.category.all"      = "Всі";
+"food.category.shawarma" = "Шаурма";
+"food.category.pizza"    = "Піца";
+"food.category.sushi"    = "Суші";
+"food.category.burgers"  = "Бургери";
+"food.category.cafe"     = "Кафе";
+
+// MARK: - Taxi
+"taxi.title"        = "Таксі";
+"taxi.subtitle"     = "Вкажіть маршрут і час";
+"taxi.from"         = "Звідки їдете?";
+"taxi.to"           = "Куди їдете?";
+"taxi.today"        = "Сьогодні";
+"taxi.now"          = "Зараз";
+"taxi.comment"      = "Додати коментар (необов'язково)";
+"taxi.comment.placeholder" = "Коментар";
+"taxi.cta"          = "Викликати таксі";
+"taxi.payment.card" = "Картка";
+"taxi.payment.cash" = "Готівка";
+"taxi.payment.change" = "Змінити";
+"taxi.location"     = "Золочів, Україна";
+
+// MARK: - Orders
+"orders.title" = "Замовлення";
+"orders.empty" = "Ще немає замовлень";
+"orders.empty.sub" = "Зробіть перше замовлення і воно з'явиться тут";
+
+// MARK: - Profile
+"profile.title"          = "Профіль";
+"profile.cabinet"        = "Особистий кабінет";
+"profile.bonus"          = "Ваші бонуси";
+"profile.bonus.available" = "Доступно до використання";
+"profile.orders"         = "Мої замовлення";
+"profile.orders.sub"     = "Історія та статус";
+"profile.personal"       = "Персональні дані";
+"profile.personal.sub"   = "Ім'я, телефон, пошта";
+"profile.addresses"      = "Адреси доставки";
+"profile.addresses.sub"  = "Збережені адреси";
+"profile.notifications"  = "Сповіщення";
+"profile.notif.on"       = "Увімкнено";
+"profile.notif.off"      = "Вимкнено";
+"profile.logout"         = "Вийти з акаунту";
+"profile.delete"         = "Видалити обліковий запис";
+
+// MARK: - Errors
+"error.no_internet" = "Немає з'єднання з інтернетом";
+"error.unknown"     = "Щось пішло не так";
+"error.try_again"   = "Спробувати знову";
+
+// MARK: - Alerts
+"alert.signout.title"   = "Вийти";
+"alert.signout.message" = "Ви впевнені, що хочете вийти?";
+"alert.cancel"          = "Скасувати";
+"alert.delete.title"    = "Видалити акаунт";
+"alert.delete.message"  = "Цю дію неможливо скасувати. Всі ваші дані будуть видалені назавжди.";
+"alert.confirm"         = "Підтвердити";
+
+"auth.signin.title"    = "Увійдіть щоб продовжити";
+"auth.phone.label"     = "Номер телефону";
+"auth.phone.placeholder" = "+380 XX XXX XX XX";
+"auth.continue"        = "Продовжити";

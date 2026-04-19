@@ -1,0 +1,82 @@
+/*
+ Localizable.strings
+ TukTuk
+ 
+ Created by Anatolii Semenchuk on 18.04.2026.
+ 
+ */
+
+// MARK: - Tabs
+"tab.food"    = "Food";
+"tab.taxi"    = "Taxi";
+"tab.orders"  = "Orders";
+"tab.profile" = "Profile";
+
+// MARK: - Food
+"food.title"    = "Food";
+"food.greeting" = "Good day 👋";
+"food.question" = "What are we ordering?";
+"food.venues"   = "Venues";
+"food.new"      = "New";
+"food.category.all"      = "All";
+"food.category.shawarma" = "Shawarma";
+"food.category.pizza"    = "Pizza";
+"food.category.sushi"    = "Sushi";
+"food.category.burgers"  = "Burgers";
+"food.category.cafe"     = "Cafe";
+
+// MARK: - Taxi
+"taxi.title"        = "Taxi";
+"taxi.subtitle"     = "Enter your route and time";
+"taxi.from"         = "Where from?";
+"taxi.to"           = "Where to?";
+"taxi.today"        = "Today";
+"taxi.now"          = "Now";
+"taxi.comment"      = "Add comment (optional)";
+"taxi.comment.placeholder" = "Comment";
+"taxi.cta"          = "Call a taxi";
+"taxi.payment.card" = "Card";
+"taxi.payment.cash" = "Cash";
+"taxi.payment.change" = "Change";
+"taxi.location"     = "Zolochiv, Ukraine";
+
+// MARK: - Orders
+"orders.title" = "Orders";
+"orders.empty" = "No orders yet";
+"orders.empty.sub" = "Place your first order and it will appear here";
+
+// MARK: - Profile
+"profile.title"          = "Profile";
+"profile.cabinet"        = "Personal cabinet";
+"profile.bonus"          = "Your bonuses";
+"profile.bonus.available" = "Available to use";
+"profile.orders"         = "My orders";
+"profile.orders.sub"     = "History & status";
+"profile.personal"       = "Personal data";
+"profile.personal.sub"   = "Name, phone, email";
+"profile.addresses"      = "Delivery addresses";
+"profile.addresses.sub"  = "Saved addresses";
+"profile.notifications"  = "Notifications";
+"profile.notif.on"       = "Enabled";
+"profile.notif.off"      = "Disabled";
+"profile.logout"         = "Sign out";
+"profile.delete"         = "Delete account";
+
+// MARK: - Errors
+"error.no_internet" = "No internet connection";
+"error.unknown"     = "Something went wrong";
+"error.try_again"   = "Try again";
+
+// MARK: - Alerts
+"alert.signout.title"   = "Sign out";
+"alert.signout.message" = "Are you sure you want to sign out?";
+"alert.cancel"          = "Cancel";
+"alert.delete.title"    = "Delete account";
+"alert.delete.message"  = "This action cannot be undone. All your data will be permanently deleted.";
+"alert.confirm"         = "Confirm";
+
+"auth.signin.title"    = "Sign in to continue";
+"auth.phone.label"     = "Phone number";
+"auth.phone.placeholder" = "+380 XX XXX XX XX";
+"auth.continue"        = "Continue";
+

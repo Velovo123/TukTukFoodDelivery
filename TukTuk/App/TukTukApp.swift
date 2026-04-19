@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct TukTukApp: App {
+    @State private var container = AppContainer()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
+                .environment(\.appContainer, container)
         }
     }
 }
