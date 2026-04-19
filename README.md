@@ -213,18 +213,11 @@ open TukTuk.xcodeproj
 ```
 
 Requirements:
-- Xcode 16+
-- iOS 17+ simulator or device
+- Xcode 26.2+
+- iOS 26.2+ simulator or device
 - No dependencies — pure SwiftUI, no SPM packages
 
 ---
-
-## 📍 About
-
-Built for **Zolochiv, Lviv Oblast, Ukraine** 🇺🇦
-
-A local alternative to Bolt/Glovo — connecting residents with nearby restaurants and taxi drivers without big-platform fees.
-
 ---
 
 *Made with SwiftUI · Zolochiv, Ukraine 🇺🇦*
