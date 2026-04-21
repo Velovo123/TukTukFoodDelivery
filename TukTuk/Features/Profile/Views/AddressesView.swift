@@ -30,7 +30,7 @@ struct AddressesView: View {
     }
 }
 
-// MARK: - Address Row
+
 private extension AddressesView {
     
     func addressRow(_ address: SavedAddress) -> some View {

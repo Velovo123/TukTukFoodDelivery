@@ -91,4 +91,8 @@ enum L10n {
         static let phonePlaceholder = String(localized: "auth.phone.placeholder")
         static let continueButton   = String(localized: "auth.continue")
     }
+    
+    enum Splash {
+        static let tagline = String(localized: "splash.tagline")
+    }
 }

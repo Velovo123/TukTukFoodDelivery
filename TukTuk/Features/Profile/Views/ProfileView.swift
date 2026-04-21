@@ -44,7 +44,7 @@ struct ProfileView: View {
     }
 }
 
-// MARK: - Auth States
+
 private extension ProfileView {
 
     var loggedInView: some View {
@@ -69,7 +69,7 @@ private extension ProfileView {
     }
 }
 
-// MARK: - Avatar
+
 private extension ProfileView {
     
     var avatarSection: some View {
@@ -100,7 +100,7 @@ private extension ProfileView {
     }
 }
 
-// MARK: - Bonus Card
+
 private extension ProfileView {
     
     var bonusCard: some View {
@@ -140,7 +140,7 @@ private extension ProfileView {
     }
 }
 
-// MARK: - Menu
+
 private extension ProfileView {
     
     var menuSection: some View {
@@ -202,7 +202,7 @@ private extension ProfileView {
     }
 }
 
-// MARK: - Buttons
+
 private extension ProfileView {
     
     var signOutButton: some View {

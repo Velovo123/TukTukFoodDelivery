@@ -48,7 +48,7 @@ struct PersonalDataView: View {
     }
 }
 
-// MARK: - Components
+
 private extension PersonalDataView {
     
     var avatarRow: some View {

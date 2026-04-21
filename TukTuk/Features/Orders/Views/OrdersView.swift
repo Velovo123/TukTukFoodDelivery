@@ -46,7 +46,7 @@ struct OrdersView: View {
     }
 }
 
-// MARK: - Header
+
 private extension OrdersView {
     
     var headerView: some View {
@@ -64,7 +64,7 @@ private extension OrdersView {
     }
 }
 
-// MARK: - Segment
+
 private extension OrdersView {
     
     var segmentControl: some View {
@@ -105,7 +105,7 @@ private extension OrdersView {
     }
 }
 
-// MARK: - States
+
 private extension OrdersView {
     
     var loadingState: some View {

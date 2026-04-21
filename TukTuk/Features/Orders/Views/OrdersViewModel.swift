@@ -33,7 +33,7 @@ final class OrdersViewModel {
         
         try? await Task.sleep(for: .seconds(0.5))
         
-        // Replace with real API later
+        //TODO: Replace with real API
         orders = TaxiOrder.previews
     }
 }

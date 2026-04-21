@@ -16,7 +16,7 @@ struct AddressField: View {
     
     @State private var showSuggestions = false
     
-    // Mock suggestions — replace with MapKit search later
+
     private var suggestions: [String] {
         guard text.count >= 2 else { return [] }
         return AddressSuggestions.mock.filter {

@@ -74,7 +74,7 @@ struct OrderRow: View {
     }
 }
 
-// MARK: - Status Badge
+
 struct StatusBadge: View {
     
     let status: OrderStatus

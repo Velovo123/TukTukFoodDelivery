@@ -37,7 +37,7 @@ struct LoginView: View {
     }
 }
 
-// MARK: - Logo
+
 private extension LoginView {
     
     var logoSection: some View {
@@ -65,7 +65,7 @@ private extension LoginView {
     }
 }
 
-// MARK: - Phone
+
 private extension LoginView {
     
     var phoneSection: some View {
@@ -99,7 +99,7 @@ private extension LoginView {
     }
 }
 
-// MARK: - CTA
+
 private extension LoginView {
     
     var ctaButton: some View {

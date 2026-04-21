@@ -42,7 +42,7 @@ struct TaxiView: View {
     }
 }
 
-// MARK: - Map
+
 private extension TaxiView {
     
     var mapSection: some View {
@@ -70,7 +70,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - Title
+
 private extension TaxiView {
     
     var titleSection: some View {
@@ -87,7 +87,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - Route
+
 private extension TaxiView {
     
     var routeSection: some View {
@@ -116,7 +116,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - Date & Time
+
 private extension TaxiView {
     
     var dateTimeSection: some View {
@@ -169,7 +169,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - Comment
+
 private extension TaxiView {
     
     var commentSection: some View {
@@ -190,7 +190,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - Payment
+
 private extension TaxiView {
     
     var paymentSection: some View {
@@ -222,7 +222,7 @@ private extension TaxiView {
     }
 }
 
-// MARK: - CTA
+
 private extension TaxiView {
     
     var ctaButton: some View {

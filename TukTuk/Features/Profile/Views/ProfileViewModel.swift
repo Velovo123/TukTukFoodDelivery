@@ -16,13 +16,13 @@ final class ProfileViewModel {
     var showSignOutAlert = false
     var showDeleteAlert = false
     
-    // MARK: - Computed
+
     var isLoggedIn: Bool { user != nil }
     
     var bonusBalance: Double { user?.bonusBalance ?? 0 }
     var userName: String { user?.name ?? "" }
     
-    // MARK: - Actions
+
     func loadUser() async {
         isLoading = true
         defer { isLoading = false }
@@ -38,13 +38,13 @@ final class ProfileViewModel {
         isLoading = true
         defer { isLoading = false }
         try? await Task.sleep(for: .seconds(1))
-        // Replace with real auth later
+        //TODO: Replace with real auth later
         user = User.preview
     }
 
     func deleteAccount() {
-        // Clear all local data
-        // API call to delete account goes here later
+        // TODO: Clear all local data
+        // TODO: API call to delete account goes here later
         user = nil
     }
 }
